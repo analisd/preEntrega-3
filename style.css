@@ -1,0 +1,18 @@
+header .container{
+padding: 10px!important;
+}
+header .logo img{
+width: 316px;
+height: auto;
+}
+header .menu .container-fluid{
+width: 400px;
+padding-top: 30px;
+}
+header .container .icon-shopping{
+    padding-top: 44px;
+}
+.img-fluid{
+    height: 70%;
+    width: auto;
+}
